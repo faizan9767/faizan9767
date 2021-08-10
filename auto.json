@@ -1,0 +1,29 @@
+{
+  "wallet_btc":"35k92BCFkfBe1Gg5v1Tpcj1tv4Vteq8Suf",
+  "wallet_ltc":"MDTVJuuwnwprDePqwLqubuu8dCwvEEbW6K",
+  "wallet_bch":"qpmm6xjcdufmm2lt9gjpykk0sfz9p5a84gxsjt9mpr",
+  "wallet_zec":"t1WZmoqyXpJK7wRy86Bf2L24gtnD4WhTARB",
+  "wallet_doge":"DDjTr8Wt59V3uvFD8UHjFRfurZe1U4ZDq7",
+  "reff_btc":"p3TgN",
+  "reff_ltc":"UD1oQ",
+  "reff_bch":"Oweq",
+  "reff_doge":"DvTFj",
+  "reff_zec":"ib6ft",
+  "fitur":{
+    "auto_reff":"on",
+    "msg":"off",
+    "join":"on",
+    "visit":"off",
+    "auto_wd":"off"
+  },
+  "jumlah":{
+      "msg":"200",
+      "join":"100",
+      "visit":"200"
+   },
+  "cf-cookie":{
+    "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+    "limit":"3",
+    "delay":"60"
+  }
+}
